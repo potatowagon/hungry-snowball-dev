@@ -1,7 +1,7 @@
 # hungry-snowball-dev
 
 ## Download
-Download as .zip, extract, and run "New Unity Project (2).exe"
+Play on Desktop: Download as .zip, extract, and run "New Unity Project (2).exe"
 
 </br>
 
